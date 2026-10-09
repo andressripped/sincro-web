@@ -1,0 +1,12 @@
+Repositorio del proyecto
+========================
+
+https://github.com/andressripped/sincro-web
+
+Evidencia GA7-220501096-AA2-EV02
+Modulos de software codificados y probados
+
+Julian Andres Albarracin Martinez
+Ficha 3336228
+Analisis y Desarrollo de Software
+Centro Agroturistico de San Gil - Regional Santander
